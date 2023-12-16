@@ -1,4 +1,4 @@
-#👋 E aí, viajante do código! Seja bem vindo ao meu repositório!
+# 👋 E aí, viajante do código! Seja bem vindo ao meu repositório!
 
 Eu sou Matheus Mazzarino, um gaúcho entusiasta da tecnologia. Falando um pouco sobre mim, quando criança eu era aquele moleque que desmontava tudo para entender como funcionava. Lembro de uma vez que ganhei uma Ferrari da Fórmula 1 com controle remoto, mas no primeiro dia levei ela ao pit stop e ela nunca mais saiu de lá 😂. Tragédias a parte, acho que a história ficou mais emocionante a partir de 2017, então aos que gostariam de conhecer melhor meu lado profissional, seguem alguns parágrafos contando um pouco da minha trajetória até aqui.
 
