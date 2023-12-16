@@ -1,6 +1,6 @@
 # 👋 E aí, viajante do código! Seja bem vindo ao meu repositório!
 
-😊 Eu sou Matheus Mazzarino, um gaúcho entusiasta da tecnologia. Quando criança eu era aquele moleque que desmontava tudo para entender como funcionava. Lembro de uma vez que ganhei uma Ferrari da Fórmula 1 com controle remoto, mas no primeiro dia levei ela ao pit stop e ela nunca mais saiu de lá 😂. Tragédias a parte, acho que a história ficou mais emocionante a partir de 2017, então aos que gostariam de conhecer melhor meu lado profissional, seguem alguns parágrafos contando um pouco da minha trajetória até aqui.
+😊 Eu sou Matheus Mazzarino, um gaúcho entusiasta da tecnologia. Quando criança eu era aquele moleque que desmontava tudo para entender como funcionava. Lembro de uma vez que ganhei a Fórmula 1 (Ferrari) com controle remoto, mas no primeiro dia levei ela ao pit stop e ela nunca mais saiu de lá 😂. Tragédias a parte, acho que a história ficou mais emocionante a partir de 2017, então aos que gostariam de conhecer melhor meu lado profissional, seguem alguns parágrafos contando um pouco da minha trajetória até aqui.
 
 🚀 Em 2017, entrei na Escola Politécnica da PUCRS e iniciei o curso de Engenharia de Controle e Automação, onde meu coração bateu mais forte pela programação. Buscando aperfeiçoar minhas habilidades como programador, em 2018 participei do programa Aceleradora Ágil, ofertado pela Thoughtworks em parceria com o Centro de Inovação da Microsoft, e botei a mão na massa com Metodologias Ágeis e tecnologias top de linha.
 
