@@ -6,7 +6,7 @@
 
 💼 Em 2019, dei as caras na WAYSYS como Desenvolvedor Back-End. Na WAYSYS, durante 3 anos, participei de diversos projetos nacionais e internacionais voltados para a Indústria Tabagista e foi onde descobri meu crush pelos dados.
  
-⚔️ Em 2022, aportei na EVCOMX, uma startup ninja que desenvolve sistemas de Inteligência de Dados. Lá, coloquei o capacete e fui à batalha, ajudando a criar sistemas para gigantes como Gerdau, Petrobras, Usiminas e mais. Curiosamente, na EVCOMX ganhei o apelido de “300”, inspirado no filme homônimo, depois de encarar desafios como os espartanos, ajudando a empresa a confrontar e ganhar de concorrentes dezenas e até centenas de vezes maiores.
+⚔️ Em 2022, aportei na EVCOMX, uma startup ninja que desenvolve sistemas de Inteligência de Dados. Lá, coloquei o capacete e fui à batalha, ajudando a criar sistemas para gigantes como Gerdau, Petrobras, Usiminas e mais.
 
 🎓 Paralelamente a vida profissional, a vida acadêmica fez com que eu me apaixonasse por Sistemas de Controle e Aeromodelismo. Dessa fusão, potencializada pelo meu espírito empreendedor, nasceu meu pet project: um VANT Autônomo que ainda vai conquistar os céus - OASIS. Com o tempo, este deixou de ser apenas um projeto de hobbie e passou a ser o projeto de um produto voltado para a Indústria Agrícola.
 
